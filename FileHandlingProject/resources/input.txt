@@ -1,0 +1,2 @@
+This is the input file.
+It contains sample text.
